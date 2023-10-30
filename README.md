@@ -34,3 +34,17 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwnoov&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+
+
+##  🍎 iOS 커리큘럼
+
+| Week | 개별과제 | 조별과제 |커리큘럼 내용 |
+| ------ | -- | -- |----------- |
+| 1주차 | ☑️ | ☑️ | iOS 기초, H.I.G를 통한 컴포넌트의 이해, 화면 전환 |
+| 2주차 | ☑️ | ☑️ | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
+| 3주차 | ☑️ | ☑️ | TableView, CollectionView, 데이터 전달 방식 |
+| 4주차 | ☑️ | ☑️ | Cocoapods & Networking + 솝커톤 전 보충 세미나 |
+| 5주차 |  |  |디자인 합동 세미나 |
+| 6주차 |  |  |서버 합동 세미나 + 솝커톤  |
+| 7주차 |  |  |클론 코딩을 통한 실전 UI 구성, Animation, 통신 보충  |
+| 8주차 |  |  |e기획 경선 + 앱잼 전 보충 세미나 + 앱스토어 배포 가이드  |
