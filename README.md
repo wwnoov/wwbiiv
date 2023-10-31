@@ -21,26 +21,6 @@
         </div><br>
 </div>
 <br>
-
-<div align=center>
-	
-### 🎨 SNS & Portfolio 🎨
-</div>
-	<a href="#">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="wwnoov@gmail.co.kr">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="#">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
- 
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwnoov&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
-<div align="center">
 	
 ### 🎥 ProJect
 <!-- | 23.10 | Dear-My-wwnoov | 개인 프로젝트 | -->
