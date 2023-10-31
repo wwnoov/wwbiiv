@@ -38,7 +38,7 @@
 <div align="center">
 	
 ### 🎥 ProJect
-<!-- | 23.06 | Dear-My-Univerest | 개인 프로젝트 | -->
+<!-- | 23.10 | Dear-My-wwnoov | 개인 프로젝트 | -->
 
   
 | Date | Contents | With |
