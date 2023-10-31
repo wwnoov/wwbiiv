@@ -43,7 +43,7 @@
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
-| 23.10.1~23.10.31 | [프로젝트](https://github.com/wwnoov/ww_project/blob/d8bbe19c96fe9fffe31617b5cacdf2c63594dfd3/README.md) | 개인프로젝트 |
+| 23.10.1~23.10.31 | [MyBatis CRUD프로젝트](https://github.com/wwnoov/ww_project/blob/d8bbe19c96fe9fffe31617b5cacdf2c63594dfd3/README.md) | 개인프로젝트 |
 | 23.06 | ## | ### |
 | 23.04 | ################# | ############# |
 | 23.04 | ################## |################# |
