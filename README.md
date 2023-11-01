@@ -39,7 +39,7 @@
 |:---:|:---:|:---:|
 | 23.12 | ################# | ############# |
 | 23.11 | ################## |################# |
-| 23.11 |[CRUD기반 서비스프로그램 제작]()| 4조 팀프로젝트 |
+| 23.10.1~23.11.10 |[CRUD기반 서비스프로그램 제작](https://github.com/wwnoov/Team_ProJect/blob/7a1069cafb4d9ed105bc904b00f5330050287495/README.md)| 4조 팀프로젝트 |
 | 23.10.1~23.10.31 | [MyBatis CRUD프로젝트](https://github.com/wwnoov/ww_project/blob/d8bbe19c96fe9fffe31617b5cacdf2c63594dfd3/README.md) | 개인프로젝트 |
 | 23.10.1~23.10.31 | [CSS / HTML / JavaScript 를 활용한 웹퍼블리싱](https://github.com/wwnoov/ww_project/blob/d8bbe19c96fe9fffe31617b5cacdf2c63594dfd3/Oc_ProJect/README.md) | 개인프로젝트 |
 
