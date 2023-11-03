@@ -1,7 +1,7 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WonWoo!&fontSize=90" />	
 </div>
-
+![2342342](https://github.com/wwnoov/java_train/assets/145524959/ad60a4ff-eb6d-4bc7-ad76-395553e42797)
 
 <div align="center" witdh="250px" height="250px">	
 
