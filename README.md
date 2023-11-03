@@ -34,14 +34,15 @@
 ### 🎥 ProJect
 <!-- | 23.10 | Dear-My-wwnoov | 개인 프로젝트 | -->
 
-  
+
+
 | Date | Contents | With |
 |:---:|:---:|:---:|
 | 23.12 | ################# | ############# |
 | 23.11 | ################## |################# |
 | 23.10.1~23.11.10 |[온라인 BOOKSTORE 제작](https://github.com/wwnoov/Team_ProJect)| 4조 팀프로젝트 |
-| 23.10.1~23.10.31 | [MyBatis CRUD프로젝트](https://github.com/wwnoov/ww_project/blob/d8bbe19c96fe9fffe31617b5cacdf2c63594dfd3/README.md) | 개인프로젝트 |
-| 23.10.1~23.10.31 | [CSS / HTML / JavaScript 를 활용한 웹퍼블리싱](https://github.com/wwnoov/ww_project/blob/d8bbe19c96fe9fffe31617b5cacdf2c63594dfd3/Oc_ProJect/README.md) | 개인프로젝트 |
+| 23.10.1~23.10.31 | [MyBatis CRUD프로젝트](Java_Mybatis_Project/README.md) | 개인프로젝트 |
+| 23.10.1~23.10.31 | [CSS / HTML / JavaScript 를 활용한 웹퍼블리싱](Oc_ProJect/README.md) | 개인프로젝트 |
 
 
   
