@@ -41,7 +41,7 @@
 | 23.12 | ################# | ############# |
 | 23.11 | ################## |################# |
 | 23.10.1~23.11.10 |[온라인 BOOKSTORE 제작](https://github.com/wwnoov/Team_ProJect)| 4조 팀프로젝트 |
-| 23.10.1~23.10.31 | [MyBatis CRUD프로젝트](ww_project/Java_Mybatis_Project/README.md) | 개인프로젝트 |
+| 23.10.1~23.10.31 | [MyBatis CRUD프로젝트](https://github.com/wwnoov/ww_project/tree/cba9c59afb5fa5222a1a637c5185aec5a41492c2/Java_Mybatis_Project) | 개인프로젝트 |
 | 23.10.1~23.10.31 | [CSS / HTML / JavaScript 를 활용한 웹퍼블리싱](ww_Project/Oc_ProJect/README.md) | 개인프로젝트 |
 
 
