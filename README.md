@@ -25,6 +25,7 @@
         <img src="https://img.shields.io/badge/Spring-6db33f)?style=flat-square&logo=Spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>	
 	<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+	<br>
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
         </div><br>
 </div>
