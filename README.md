@@ -41,7 +41,7 @@
 
 | Date | Contents | With | Link |
 | :---:|:---:|:---:|:---:
-| 23.11.13~23.12.08 |가제4조| 팀프로젝트 |[🏷](https://github.com/NovTeamProject) |
+| 23.11.13~23.12.08 |CHUNJAE STUDY| 팀프로젝트 |[🏷](https://github.com/NovTeamProject) |
 | 23.11.13~23.11.24 |Jsp MyBatis MVC2 Board Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/blob/main/NovJspProject/README.md) |
 | 23.10.01~23.11.10 |온라인 BOOKSTORE 제작| 팀프로젝트 |[🏷](https://github.com/wwnoov/Team_ProJect) |
 | 23.10.01~23.10.31 | MyBatis CRUD프로젝트 | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/Java_Mybatis_Project) |
