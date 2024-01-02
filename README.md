@@ -41,7 +41,7 @@
 
 | Date | Contents | With | Link |
 | :---:|:---:|:---:|:---:
-| 23.12.29~24.01.12 |ChunJae SHOP| 팀프로젝트 |[🏷](https://github.com/Last-but-not-LEAST/LBNL) |
+| 23.12.29~24.01.12 |ChunJae Shop| 팀프로젝트 |[🏷](https://github.com/Last-but-not-LEAST/LBNL) |
 | 23.12.18~24.01.02 |Spring Basic Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/blob/main/spring_boardtest/README.md) |
 | 23.11.13~23.12.08 |CODE TAB| 팀프로젝트 |[🏷](https://github.com/NovTeamProject/Team_Project#readme) |
 | 23.11.13~23.11.24 |Jsp MyBatis MVC2 Board Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/blob/main/NovJspProject/README.md) |
