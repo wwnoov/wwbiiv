@@ -47,7 +47,7 @@
 | 23.12.18~24.01.02 |Spring Basic Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/blob/main/spring_boardtest/README.md) |
 | 23.11.13~23.12.08 |CODE TAB| 팀프로젝트 |[🏷](https://github.com/NovTeamProject/Team_Project#readme) |
 | 23.11.13~23.11.24 |Jsp MyBatis MVC2 Board Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/blob/main/NovJspProject/README.md) |
-| 23.10.01~23.11.10 |온라인 BOOKSTORE 제작| 팀프로젝트 |[🏷](https://github.com/wwnoov/Team_ProJect) |
+| 23.10.01~23.11.10 |온라인 BOOKSTORE 제작| 팀프로젝트 |[🏷](https://github.com/wwnoov/OC_Team_ProJect/blob/45a381d873dd1e24b0ed44e890e8947eb0a80950/README.md) |
 | 23.10.01~23.10.31 | MyBatis CRUD프로젝트 | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/Java_Mybatis_Project) |
 | 23.10.01~23.10.31 | CSS / HTML / JavaScript 를 활용한 웹퍼블리싱 | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/Oc_ProJect) |
 
