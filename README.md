@@ -44,7 +44,7 @@
 | :---:|:---:|:---:|:---:
 | 24.01.22~24.02.07|DeumE-Archive| 팀프로젝트 |[🏷](https://github.com/DeumE-Shop/DeumE-Archive) |
 | 23.12.29~24.01.19 |DeumE-Shop| 팀프로젝트 |[🏷](https://github.com/Last-but-not-LEAST/LBNL) |
-| 23.12.18~24.01.02 |Spring Basic Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/blob/main/spring_boardtest/README.md) |
+| 23.12.18~24.01.02 |Spring Basic Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/spring_boardtest) |
 | 23.11.13~23.12.08 |CODE TAB| 팀프로젝트 |[🏷](https://github.com/NovTeamProject/Team_Project#readme) |
 | 23.11.13~23.11.24 |Jsp MVC2 Board Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/blob/main/NovJspProject/README.md) |
 | 23.10.01~23.11.10 |온라인 BOOKSTORE 제작| 팀프로젝트 |[🏷](https://github.com/wwnoov/OC_Team_ProJect/blob/45a381d873dd1e24b0ed44e890e8947eb0a80950/README.md) |
