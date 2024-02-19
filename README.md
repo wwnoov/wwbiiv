@@ -42,7 +42,7 @@
 
 | Date | Contents | With | Link |
 | :---:|:---:|:---:|:---:
-| 24.01.22~24.02.07|DeumE-Archive| 팀프로젝트 |[🏷](https://github.com/DeumE-Shop/DeumE-Archive) |
+| 24.01.22~24.02.07|DeumE-Archive| 팀프로젝트 |[🏷](https://github.com/DeumE-Project/DeumE-Archive-public) |
 | 23.12.29~24.01.19 |DeumE-Shop| 팀프로젝트 |[🏷](https://github.com/Last-but-not-LEAST/LBNL) |
 | 23.12.18~24.01.02 |Spring Basic Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/spring_boardtest) |
 | 23.11.13~23.12.08 |CODE TAB| 팀프로젝트 |[🏷](https://github.com/NovTeamProject/Team_Project#readme) |
