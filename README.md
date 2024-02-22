@@ -21,7 +21,7 @@
 	<br>	
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logoColor=white" />
 	<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
    	<p><h3>📃Studying📃</h3></p>	
