@@ -40,16 +40,16 @@
 
 
 
-| Date | Contents | With | Link |
-| :---:|:---:|:---:|:---:
-| 24.01.22~24.02.07|DeumE-Archive| 팀프로젝트 |[🏷](https://github.com/DeumE-Project/DeumE-Archive-public) |
-| 23.12.29~24.01.19 |DeumE-Shop| 팀프로젝트 |[🏷](https://github.com/Last-but-not-LEAST/LBNL) |
-| 23.12.18~24.01.02 |Spring Basic Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/spring_boardtest) |
-| 23.11.13~23.12.08 |CODE TAB| 팀프로젝트 |[🏷](https://github.com/NovTeamProject/Team_Project#readme) |
-| 23.11.13~23.11.24 |Jsp MVC2 Board Project | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/blob/main/NovJspProject/README.md) |
-| 23.10.01~23.11.10 |온라인 BOOKSTORE | 팀프로젝트 |[🏷](https://github.com/wwnoov/OC_Team_ProJect/blob/45a381d873dd1e24b0ed44e890e8947eb0a80950/README.md) |
-| 23.10.01~23.10.31 | MyBatis CRUD 프로젝트 | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/Java_Mybatis_Project) |
-| 23.10.01~23.10.31 | CSS / HTML / JavaScript 를 활용한 웹퍼블리싱 | 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/Oc_ProJect) |
+| Date | title | Contents | With | Link |
+| :---:|:---:|:---:|:---:|:---:
+| 24.01.22~24.02.07|DeumE-Archive| SpringBoot 프로젝트 |팀프로젝트 |[🏷](https://github.com/DeumE-Project/DeumE-Archive-public) |
+| 23.12.29~24.01.19 |DeumE-Shop| Spring 프로젝트| 팀프로젝트 |[🏷](https://github.com/Last-but-not-LEAST/LBNL) |
+| 23.12.18~24.01.02 |Spring Basic Project | Srping 프로젝트 |개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/spring_boardtest) |
+| 23.11.13~23.12.08 |CODE TAB| MVC2 프로젝트| 팀프로젝트 |[🏷](https://github.com/NovTeamProject/Team_Project#readme) |
+| 23.11.13~23.11.24 |Jsp MVC2 Board Project | MVC2 Board 프로젝트| 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/blob/main/NovJspProject/README.md) |
+| 23.10.01~23.11.10 |온라인 BOOKSTORE | BOOKSTORE 프로젝트| 팀프로젝트 |[🏷](https://github.com/wwnoov/OC_Team_ProJect/blob/45a381d873dd1e24b0ed44e890e8947eb0a80950/README.md) |
+| 23.10.01~23.10.31 | MyBatis CRUD 프로젝트 | MyBatis 프로젝트| 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/Java_Mybatis_Project) |
+| 23.10.01~23.10.31 | CSS / HTML / JavaScript 를 활용한 웹퍼블리싱 | Basic 프로젝트| 개인프로젝트 |[🏷](https://github.com/wwnoov/ww_project/tree/main/Oc_ProJect) |
 
 
   
