@@ -25,10 +25,17 @@
 	<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
 	<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
+	<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
+	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+	<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
    	<p><h3>📃Studying📃</h3></p>	
-   	<div>           
-	<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
-        </div><br>
+   	<div>          
+    
+	<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/awslambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" /> 
+        </div>
+	<br>
 </div>
 
 <br>
